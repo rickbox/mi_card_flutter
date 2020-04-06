@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Runner/main.m \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Flutter/Flutter.framework/Headers/Flutter.h \
+  /Users/komatsu/AndroidStudioProjects/mi_card_flutter/ios/Runner/AppDelegate.h
